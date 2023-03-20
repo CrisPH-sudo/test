@@ -385,7 +385,7 @@ export default function Home() {
               </div>
             </form>
             <div className="hidden text-white md:block">
-              Copyright &copy; {currentYear}, Developed by: Cris Reyes<br></br>
+              Copyright &copy; {currentYear}, Developed by: Cris Reyes
               
             </div>
           </div>
