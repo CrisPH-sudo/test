@@ -8,7 +8,7 @@ export default function Home() {
       <nav className="relative container mx-auto p-6">
         <div className="flex items-center justify-between">
           <div className="pt-2 px-4 w-64">
-            <img src="img/vercel.svg" alt="" />
+            <img src="img/logo.svg" alt="" />
           </div>
           <div className="hidden md:flex space-x-6">
             <a href="/pricing" className="hover:text-gray-500">
