@@ -8,7 +8,7 @@ export default function Home() {
       <nav className="relative container mx-auto p-6">
         <div className="flex items-center justify-between">
           <div className="pt-2 px-4 w-64">
-            <img src="img/logo.svg" alt="" />
+            <img src="img/vercel.svg" alt="" />
           </div>
           <div className="hidden md:flex space-x-6">
             <a href="/pricing" className="hover:text-gray-500">
@@ -88,7 +88,7 @@ export default function Home() {
           {/* Image */}
           <div className="md:w-1/2">
             <img
-              className=" ml-24 w-96 rounded-full"
+              className=" w-96 rounded-full"
               src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47q7nwy427919p1g06dxhkod85a5v2ctwznfouruqk&rid=200.webp&ct=g"
               alt="illustration"
             />
